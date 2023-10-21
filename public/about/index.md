@@ -14,5 +14,14 @@ abdo💀aboutme# ./skills.sh
 
 |Skillz|Level|
 |:------|:-----:|
-|Python|Expert|
+|Python programming|Excellent|
+|Bash scripting|Great|
+|Burpsuite|Great|
+|Red teaming|Good|
+|Blue teaming|Excellent|
+|Incident response|Great|
+|Threat hunting|Great|
+|OSINT|Good|
+|Risk analysis & assessment|Great|
+|Vulnerability management|Great|
 
