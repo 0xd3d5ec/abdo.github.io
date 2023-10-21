@@ -7,7 +7,7 @@ featuredImagePreview = 'pfsense.png'
 summary = 'A very efficient and competent firewall with a lot of features...'
 tags = ["blue teaming"]
 categories = ["projects"]
-draft = false
+draft = true
 +++
 
 ## Introduction
