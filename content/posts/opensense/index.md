@@ -7,7 +7,7 @@ featuredImagePreview = 'opnsense.jpg'
 summary = ''
 tags = ['firewalls','WAF','IPS','IDS']
 categories = ['projects']
-draft = false
+draft = true
 +++
 
 ## Why OPNsense?
