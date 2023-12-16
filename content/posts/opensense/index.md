@@ -15,4 +15,4 @@ I'm going to talk about how to configure it and all if it's different functions 
 
 ## Multiple Features
 
-# coming soon!! stay tuned!
+## coming soon!! stay tuned!
