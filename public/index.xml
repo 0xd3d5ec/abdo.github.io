@@ -14,8 +14,7 @@
     <guid>http://example.org/opensense/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/opnsense.jpg" referrerpolicy="no-referrer">
-            </div>Why OPNsense? I&rsquo;m going to talk about how to configure it and all if it&rsquo;s different functions that make it so great. Buckle up this going to be a very detailed guide and in depth.
-Multiple Features coming soon!! stay tuned! ]]></description>
+            </div>New project that discusses a firewall configuration for multiple purposes all free of cost.]]></description>
 </item>
 <item>
     <title>Wazuh SIEM</title>
