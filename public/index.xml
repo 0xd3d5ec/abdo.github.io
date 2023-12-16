@@ -4,9 +4,20 @@
         <link>http://example.org/</link>
         <description>Welcome to my cybersecurity blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>abdelaalatif253@gmail.com (DedSec)</managingEditor>
-            <webMaster>abdelaalatif253@gmail.com (DedSec)</webMaster><lastBuildDate>Mon, 09 Oct 2023 13:41:11 &#43;0300</lastBuildDate>
+            <webMaster>abdelaalatif253@gmail.com (DedSec)</webMaster><lastBuildDate>Sat, 16 Dec 2023 15:50:56 &#43;0300</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>OPNsense Open-Source Firewall</title>
+    <link>http://example.org/opensense/</link>
+    <pubDate>Sat, 16 Dec 2023 15:50:56 &#43;0300</pubDate>
+    <author>DedSec</author>
+    <guid>http://example.org/opensense/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/opnsense.jpg" referrerpolicy="no-referrer">
+            </div>Why OPNsense? I&rsquo;m going to talk about how to configure it and all if it&rsquo;s different functions that make it so great. Buckle up this going to be a very detailed guide and in depth.
+Multiple Features coming soon!! stay tuned! ]]></description>
+</item>
+<item>
     <title>Wazuh SIEM</title>
     <link>http://example.org/wazuh/</link>
     <pubDate>Mon, 09 Oct 2023 13:41:11 &#43;0300</pubDate>
