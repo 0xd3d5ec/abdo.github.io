@@ -2,8 +2,8 @@
 title = 'Wazuh SIEM'
 subtitle = 'Wazuh SIEM the free open source hero.'
 date = 2023-10-09T13:41:11+03:00
-featuredImage = 'wazuhbanner.png'
-featuredImagePreview = 'wazuhbanner.png'
+featuredImage = 'wazuh_banner.png'
+featuredImagePreview = 'wazuh_banner.png'
 summary = 'Wazuh SIEM, wolf to the rescue...wazooo!🐺'
 tags = ["blue teaming"]
 categories = ["siem", "projects"]
