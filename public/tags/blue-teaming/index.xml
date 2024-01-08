@@ -11,7 +11,7 @@
     <author>DedSec</author>
     <guid>http://example.org/wazuh/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/wazuhbanner.png" referrerpolicy="no-referrer">
+                <img src="/wazuh_banner.png" referrerpolicy="no-referrer">
             </div>Wazuh SIEM, wolf to the rescue&hellip;wazooo!🐺]]></description>
 </item>
 </channel>
